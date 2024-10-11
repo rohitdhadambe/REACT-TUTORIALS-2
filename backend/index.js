@@ -35,7 +35,7 @@ app.get('/api/products', (req,res)=>{
     res.send(products)
   },2000)
 
-//http://localhost:3000/api/products?search=Watch
+//http://localhost:3000/api/products?search=Watch   //can check on the post man
 //to Search any product
 // we need to write some code
 
